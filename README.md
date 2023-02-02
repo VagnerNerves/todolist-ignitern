@@ -6,11 +6,7 @@ Develop Todo List project in React Native where you can add tasks and mark them 
 
 ## 🎥 Implementation Video
 
-
-
 https://user-images.githubusercontent.com/40831841/216209872-62b75206-95c9-4728-99a4-903bb61b7bbb.mp4
-
-
 
 ## 🎨 Layout
 
@@ -119,4 +115,4 @@ Start the server
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/todolist-ignitern/blob/master/LICENSE) file for more details.
