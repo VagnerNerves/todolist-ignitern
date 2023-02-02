@@ -4,9 +4,13 @@
 
 Develop Todo List project in React Native where you can add tasks and mark them as done with option to delete them.
 
-<!-- ## 🎥 Implementation Video
+## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself. -->
+
+
+https://user-images.githubusercontent.com/40831841/216209872-62b75206-95c9-4728-99a4-903bb61b7bbb.mp4
+
+
 
 ## 🎨 Layout
 
