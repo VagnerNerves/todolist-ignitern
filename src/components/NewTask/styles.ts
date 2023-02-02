@@ -18,7 +18,10 @@ export const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 6,
     marginRight: 4,
-    color: '#F2F2F2'
+    color: '#F2F2F2',
+
+    fontFamily: 'Inter_400Regular',
+    fontSize: 16
   },
   buttonAddTask: {
     width: 52,
@@ -38,16 +41,18 @@ export const styles = StyleSheet.create({
     alignItems: 'center'
   },
   taskCreated: {
-    fontWeight: 'bold',
+    fontFamily: 'Inter_700Bold',
+    fontSize: 14,
+
     color: '#4EA8DE',
-    marginRight: 8,
-    fontSize: 14
+    marginRight: 8
   },
   taskConclueded: {
-    fontWeight: 'bold',
+    fontFamily: 'Inter_700Bold',
+    fontSize: 14,
+
     color: '#8284FA',
-    marginRight: 8,
-    fontSize: 14
+    marginRight: 8
   },
   taskCount: {
     paddingHorizontal: 8,
@@ -59,6 +64,8 @@ export const styles = StyleSheet.create({
   },
   taskCountText: {
     color: '#D9D9D9',
+
+    fontFamily: 'Inter_400Regular',
     fontSize: 12
   },
   containerIsempt: {
@@ -68,13 +75,17 @@ export const styles = StyleSheet.create({
     paddingTop: 48
   },
   titleIsempt: {
-    fontWeight: 'bold',
     color: '#808080',
     marginTop: 16,
-    fontSize: 14
+
+    fontFamily: 'Inter_700Bold',
+    fontSize: 14,
+    lineHeight: 19
   },
   descIsempt: {
     color: '#808080',
+
+    fontFamily: 'Inter_400Regular',
     fontSize: 14
   }
 })

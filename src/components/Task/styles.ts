@@ -49,15 +49,16 @@ export const styles = StyleSheet.create({
   text: {
     flex: 1,
 
+    fontFamily: 'Inter_400Regular',
     fontSize: 14,
-    fontWeight: 'normal',
+
     color: '#F2F2F2'
   },
   textChecked: {
     flex: 1,
 
+    fontFamily: 'Inter_400Regular',
     fontSize: 14,
-    fontWeight: 'normal',
     textDecorationLine: 'line-through',
 
     color: '#808080'
